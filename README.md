@@ -33,8 +33,5 @@ GarboChess will provide suggestions for the best moves in the given position.
 
 **Thank you to the developers of GarboChess for providing the powerful chess engine that powers this website.**
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Author
 Swagat Pati 
